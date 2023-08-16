@@ -5,23 +5,27 @@
       "title": "Proyecto 1",
       "completed": false,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac enim ac mi placerat fringilla. In interdum ipsum sed dolor malesuada, vel fermentum purus iaculis. Curabitur at mollis elit. Suspendisse potenti. In hac habitasse platea dictumst. Aliquam consectetur ullamcorper diam vel lacinia. Fusce eu justo vel erat tincidunt cursus nec eu justo.",
-      "tasks": [{
-        "id": 1,
-        "title": "Tarea 1",
-        "completed": false
-      },
-      {
-        "id": 2,
-        "title": "Tarea 2",
-        "completed": false
-      },
-      {
-        "id": 3,
-        "title": "Tarea 3",
-        "completed": false
-      }],
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Tarea 1",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Tarea 2",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Tarea 3",
+          "completed": false
+        }
+      ],
       "image": "",
-      "usersId": [1]
+      "usersId": [
+        1
+      ]
     },
     {
       "id": 2,
@@ -29,22 +33,27 @@
       "completed": false,
       "description": "Descripción de la tarea 2.",
       "image": "",
-      "tasks": [{
-        "id": 1,
-        "title": "Tarea 1",
-        "completed": false
-      },
-      {
-        "id": 2,
-        "title": "Tarea 2",
-        "completed": false
-      },
-      {
-        "id": 3,
-        "title": "Tarea 3",
-        "completed": false
-      }],
-      "usersId": [2, 1]
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Tarea 1",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Tarea 2",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Tarea 3",
+          "completed": false
+        }
+      ],
+      "usersId": [
+        2,
+        1
+      ]
     },
     {
       "id": 3,
@@ -52,44 +61,55 @@
       "completed": false,
       "description": "Descripción de la tarea 3.",
       "image": "",
-      "tasks": [{
-        "id": 1,
-        "title": "Tarea 1",
-        "completed": false
-      },
-      {
-        "id": 2,
-        "title": "Tarea 2",
-        "completed": false
-      },
-      {
-        "id": 3,
-        "title": "Tarea 3",
-        "completed": false
-      }],
-      "usersId": [2, 1]
-    },{
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Tarea 1",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Tarea 2",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Tarea 3",
+          "completed": false
+        }
+      ],
+      "usersId": [
+        2,
+        1
+      ]
+    },
+    {
       "id": 4,
       "title": "Proyecto 4",
       "completed": false,
       "description": "Descripción de la tarea 1.",
       "image": "",
-      "tasks": [{
-        "id": 1,
-        "title": "Tarea 1",
-        "completed": false
-      },
-      {
-        "id": 2,
-        "title": "Tarea 2",
-        "completed": false
-      },
-      {
-        "id": 3,
-        "title": "Tarea 3",
-        "completed": false
-      }],
-      "usersId": [3, 1]
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Tarea 1",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Tarea 2",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Tarea 3",
+          "completed": false
+        }
+      ],
+      "usersId": [
+        3,
+        1
+      ]
     },
     {
       "id": 5,
@@ -97,22 +117,27 @@
       "completed": false,
       "description": "Descripción de la tarea 2.",
       "image": "",
-      "tasks": [{
-        "id": 1,
-        "title": "Tarea 1",
-        "completed": false
-      },
-      {
-        "id": 2,
-        "title": "Tarea 2",
-        "completed": false
-      },
-      {
-        "id": 3,
-        "title": "Tarea 3",
-        "completed": false
-      }],
-      "usersId": [2, 1]
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Tarea 1",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Tarea 2",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Tarea 3",
+          "completed": false
+        }
+      ],
+      "usersId": [
+        2,
+        1
+      ]
     },
     {
       "id": 6,
@@ -120,22 +145,27 @@
       "completed": false,
       "description": "Descripción de la tarea 3.",
       "image": "",
-      "tasks": [{
-        "id": 1,
-        "title": "Tarea 1",
-        "completed": false
-      },
-      {
-        "id": 2,
-        "title": "Tarea 2",
-        "completed": false
-      },
-      {
-        "id": 3,
-        "title": "Tarea 3",
-        "completed": false
-      }],
-      "usersId": [1, 3]
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Tarea 1",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Tarea 2",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Tarea 3",
+          "completed": false
+        }
+      ],
+      "usersId": [
+        1,
+        3
+      ]
     }
   ],
   "users": [
