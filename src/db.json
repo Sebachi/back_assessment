@@ -1,0 +1,98 @@
+{
+  "Projects": [
+    {
+      "id": 1,
+      "title": "Recarga de gasolina",
+      "completed": false,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac enim ac mi placerat fringilla. In interdum ipsum sed dolor malesuada, vel fermentum purus iaculis. Curabitur at mollis elit. Suspendisse potenti. In hac habitasse platea dictumst. Aliquam consectetur ullamcorper diam vel lacinia. Fusce eu justo vel erat tincidunt cursus nec eu justo.",
+      "image": "",
+      "usuario": 1
+    },
+    {
+      "id": 2,
+      "title": "Tarea 2",
+      "completed": true,
+      "description": "Descripción de la tarea 2.",
+      "image": "",
+      "usuario": 1
+    },
+    {
+      "id": 3,
+      "title": "Tarea 3",
+      "completed": false,
+      "description": "Descripción de la tarea 3.",
+      "image": "",
+      "usuario": 1
+    },{
+      "id": 4,
+      "title": "Tarea 1",
+      "completed": true,
+      "description": "Descripción de la tarea 1.",
+      "image": "",
+      "usuario": 2
+    },
+    {
+      "id": 5,
+      "title": "Tarea 2",
+      "completed": false,
+      "description": "Descripción de la tarea 2.",
+      "image": "",
+      "usuario": 2
+    },
+    {
+      "id": 6,
+      "title": "Tarea 3",
+      "completed": true,
+      "description": "Descripción de la tarea 3.",
+      "image": "",
+      "usuario": 2
+    },
+    {
+      "id": 7,
+      "title": "Tarea 1",
+      "completed": false,
+      "description": "Descripción de la tarea 1.",
+      "image": "",
+      "usuario": 3
+    },
+    {
+      "id": 8,
+      "title": "Tarea 2",
+      "completed": true,
+      "description": "Descripción de la tarea 2.",
+      "image": "",
+      "usuario": 3
+    },
+    {
+      "id": 9,
+      "title": "Tarea 3",
+      "completed": false,
+      "description": "Descripción de la tarea 3.",
+      "image": "",
+      "usuario": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan Pérez",
+      "username": "juanito123",
+      "email": "juan@example.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "María González",
+      "username": "mariag",
+      "email": "maria@example.com",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Rodríguez",
+      "username": "carlosr",
+      "email": "carlos@example.com",
+      "password": "12345"
+    }
+  ]
+}
