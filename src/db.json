@@ -2,74 +2,140 @@
   "Projects": [
     {
       "id": 1,
-      "title": "Recarga de gasolina",
+      "title": "Proyecto 1",
       "completed": false,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac enim ac mi placerat fringilla. In interdum ipsum sed dolor malesuada, vel fermentum purus iaculis. Curabitur at mollis elit. Suspendisse potenti. In hac habitasse platea dictumst. Aliquam consectetur ullamcorper diam vel lacinia. Fusce eu justo vel erat tincidunt cursus nec eu justo.",
+      "tasks": [{
+        "id": 1,
+        "title": "Tarea 1",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Tarea 2",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "title": "Tarea 3",
+        "completed": false
+      }],
       "image": "",
-      "usuario": 1
+      "usersId": [1]
     },
     {
       "id": 2,
-      "title": "Tarea 2",
-      "completed": true,
+      "title": "Proyecto 2",
+      "completed": false,
       "description": "Descripción de la tarea 2.",
       "image": "",
-      "usuario": 1
+      "tasks": [{
+        "id": 1,
+        "title": "Tarea 1",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Tarea 2",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "title": "Tarea 3",
+        "completed": false
+      }],
+      "usersId": [1]
     },
     {
       "id": 3,
-      "title": "Tarea 3",
+      "title": "Proyecto 3",
       "completed": false,
       "description": "Descripción de la tarea 3.",
       "image": "",
-      "usuario": 1
+      "tasks": [{
+        "id": 1,
+        "title": "Tarea 1",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Tarea 2",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "title": "Tarea 3",
+        "completed": false
+      }],
+      "usersId": [1]
     },{
       "id": 4,
-      "title": "Tarea 1",
-      "completed": true,
+      "title": "Proyecto 4",
+      "completed": false,
       "description": "Descripción de la tarea 1.",
       "image": "",
-      "usuario": 2
+      "tasks": [{
+        "id": 1,
+        "title": "Tarea 1",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Tarea 2",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "title": "Tarea 3",
+        "completed": false
+      }],
+      "usersId": [2]
     },
     {
       "id": 5,
-      "title": "Tarea 2",
+      "title": "Proyecto 5",
       "completed": false,
       "description": "Descripción de la tarea 2.",
       "image": "",
-      "usuario": 2
+      "tasks": [{
+        "id": 1,
+        "title": "Tarea 1",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Tarea 2",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "title": "Tarea 3",
+        "completed": false
+      }],
+      "usersId": [2]
     },
     {
       "id": 6,
-      "title": "Tarea 3",
-      "completed": true,
-      "description": "Descripción de la tarea 3.",
-      "image": "",
-      "usuario": 2
-    },
-    {
-      "id": 7,
-      "title": "Tarea 1",
-      "completed": false,
-      "description": "Descripción de la tarea 1.",
-      "image": "",
-      "usuario": 3
-    },
-    {
-      "id": 8,
-      "title": "Tarea 2",
-      "completed": true,
-      "description": "Descripción de la tarea 2.",
-      "image": "",
-      "usuario": 3
-    },
-    {
-      "id": 9,
-      "title": "Tarea 3",
+      "title": "Proyecto 6",
       "completed": false,
       "description": "Descripción de la tarea 3.",
       "image": "",
-      "usuario": 3
+      "tasks": [{
+        "id": 1,
+        "title": "Tarea 1",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Tarea 2",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "title": "Tarea 3",
+        "completed": false
+      }],
+      "usersId": [2]
     }
   ],
   "users": [
