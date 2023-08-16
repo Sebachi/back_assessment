@@ -8,7 +8,7 @@
       "tasks": [
         {
           "id": 1,
-          "title": "Tarea 1",
+          "title": "Vender zanahorias",
           "completed": false
         },
         {
@@ -24,7 +24,7 @@
       ],
       "image": "",
       "usersId": [
-        1
+        1, 2
       ]
     },
     {
