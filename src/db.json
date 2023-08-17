@@ -23,7 +23,7 @@
         }
       ],
       "image": "",
-      "usersId": [
+      "users": [
         1, 2
       ]
     },
@@ -50,7 +50,7 @@
           "completed": false
         }
       ],
-      "usersId": [
+      "users": [
         2,
         1
       ]
@@ -78,7 +78,7 @@
           "completed": false
         }
       ],
-      "usersId": [
+      "users": [
         2,
         1
       ]
@@ -106,7 +106,7 @@
           "completed": false
         }
       ],
-      "usersId": [
+      "users": [
         3,
         1
       ]
@@ -134,7 +134,7 @@
           "completed": false
         }
       ],
-      "usersId": [
+      "users": [
         2,
         1
       ]
@@ -162,7 +162,7 @@
           "completed": false
         }
       ],
-      "usersId": [
+      "users": [
         1,
         3
       ]
